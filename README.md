@@ -1,1 +1,1 @@
-# Ricardo-Zz-bot.github.io
+一些LC的题解，记录下来。
