@@ -1,6 +1,6 @@
 class MyQueue {
 public:
-    /** Initialize your data structure here. */ 
+    /** Initialize your data structure here. */ 初始化
     stack<int> cin;
     stack<int> cout;
     MyQueue() {
